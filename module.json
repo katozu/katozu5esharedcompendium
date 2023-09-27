@@ -12,21 +12,13 @@
       "label": "Classes",
       "path": "packs/classes",
       "type": "Item",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+      "system": "dnd5e"
     },
     {
       "name": "macros",
       "label": "Macros",
       "path": "packs/macros",
       "type": "Macro",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
       "system": "dnd5e"
     }
   ],
@@ -40,8 +32,7 @@
       "folders": [
         {
           "name": "Character Features",
-          "sorting": "m",
-          "color": "",
+          "sorting": "a",
           "packs": [
             "classes"
           ]
