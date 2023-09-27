@@ -30,6 +30,25 @@
       "system": "dnd5e"
     }
   ],
+  "packFolders": [
+    {
+      "namne": "Katozu Shared Compendium",
+      "sorting": "a",
+      "packs": [
+        "macros"
+      ],
+      "folders": [
+        {
+          "name": "Character Features",
+          "sorting": "m",
+          "color": "",
+          "packs": [
+            "classes"
+          ]
+        }
+      ]
+    }
+  ],
   "url": "https://github.com/katozu/katozu5esharedcompendium",
   "manifest": "https://raw.githubusercontent.com/katozu/katozu5esharedcompendium/main/module.json",
   "download": "https://github.com/katozu/katozu5esharedcompendium/archive/refs/heads/main.zip"
