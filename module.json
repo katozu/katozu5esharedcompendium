@@ -32,7 +32,7 @@
   ],
   "packFolders": [
     {
-      "namne": "Katozu Shared Compendium",
+      "name": "Katozu Shared Compendium",
       "sorting": "a",
       "packs": [
         "macros"
